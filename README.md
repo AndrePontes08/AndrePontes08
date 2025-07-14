@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um profissional com sólida experiência em Engenharia de Produção, especializado em Ciência de dados e Machine Learning. Expert em elaboração da modelagem de algoritmos e BI, com habilidades em ETL e automação, aplicando metodologias Lean e Kanban para otimizar processos.
+Sou um profissional com sólida experiência em Engenharia de Produção, especializado em Engenharia e Ciência de dados e Machine Learning. Expert em elaboração da modelagem de algoritmos e BI, com habilidades em ETL e automação, aplicando metodologias Lean e Kanban para otimizar processos.
 
 
 ## 🌐 Socials:
